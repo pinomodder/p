@@ -31,7 +31,7 @@ global.botname = 'P𝔦𝔫𝔬' //ubah jadi nama bot mu, note tanda ' gausah di
 global.footer = 'P𝔦𝔫𝔬' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6285695412496','62821394653'] // ubah aja pake nomor lu
+global.owner = ['6285695412496','62821394653','6282113034259','6285790489703'] // ubah aja pake nomor lu
 global.premium = ['6285695412496','62821394653'] // ubah aja pake nomor lu
 global.packname = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n' // ubah aja
 global.ownerr = ['P𝔦𝔫𝔬'] // ubaha aja
