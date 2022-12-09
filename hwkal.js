@@ -21,9 +21,9 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://lewatsana.com/simontok' // ubah aia
+global.youtube = 'https://youtube.com/c/HwModsWa857' // ubah aia
 global.ig = '@pinomodz' // ubah aja
-global.email = 'support.support@whatsapp.com'
+global.email = 'denyp857@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'P𝔦𝔫𝔬' //ubah jadi nama mu, note tanda ' gausah di hapus!
